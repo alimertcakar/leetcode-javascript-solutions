@@ -1,2 +1,1 @@
-# leetcode-javascript-solutions
- My leetcode javascript solutions
+# https://alimertodev.web.app/
